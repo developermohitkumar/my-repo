@@ -1,2 +1,4 @@
 this is the plain text file
 this is changed file
+
+new changes
